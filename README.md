@@ -51,7 +51,7 @@ This project implements a bot for Facebook Messenger that uses text embeddings a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/facebook-chat-bot.git
+   git clone https://github.com/santiagocanepa/facebook-chat-bot.git
    cd facebook-chat-bot
    ```
 
@@ -68,9 +68,22 @@ This project implements a bot for Facebook Messenger that uses text embeddings a
 4. **Set up environment variables**:
    - Create a `.env` file at the root of the project to store your credentials and configurations:
      ```env
-     OPENAI_API_KEY=your_api_key
-     TELEGRAM_BOT_TOKEN=your_bot_token
-     TELEGRAM_CHAT_ID=your_chat_id
+      USERNAME=
+      PASSWORD=
+
+      BOTTOKEN=
+      CHATID=
+
+      USERAGENT=
+      WIDTH=
+      HEIGHT=
+      REPR=''
+      OPENAI_API_KEY=
+      DISP=''
+      SENDPHOTOS=''
+      PHOTOSLOCATION=''
+      TELEGRAM=''
+
      ```
 
 ## 🛠️ Usage
