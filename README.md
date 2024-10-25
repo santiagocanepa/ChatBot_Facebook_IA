@@ -92,7 +92,7 @@ This project implements a bot for Facebook Messenger that uses text embeddings a
 
 2. **Start the Bot**:
    ```bash
-   node index.js
+   pnpm run init
    ```
    The bot will log in to Facebook, load the saved cookies, and start monitoring chats.
 
