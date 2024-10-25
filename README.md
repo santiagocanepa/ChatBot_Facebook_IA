@@ -95,6 +95,7 @@ This project implements a bot for Facebook Messenger that uses text embeddings a
    pnpm run init
    ```
    The bot will log in to Facebook, load the saved cookies, and start monitoring chats.
+![image](https://github.com/user-attachments/assets/c4511f60-2385-49b0-b2fe-e61028b48ac8)
 
 3. **Customize Responses**: Modify the modules within `switch` to adapt automatic responses and notifications to your specific needs.
 
