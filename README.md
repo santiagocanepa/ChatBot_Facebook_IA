@@ -57,7 +57,7 @@ This project implements a bot for Facebook Messenger that uses text embeddings a
 
 2. **Install Node.js dependencies**:
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. **Install Python dependencies**:
