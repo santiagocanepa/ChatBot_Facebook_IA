@@ -1,9 +1,0 @@
-node_modules
-dist/
-images/
-embedding/.env/
-envnew/
-**/.env
-embedding/env
-embedding/arch/
-Cookiessecundarias/

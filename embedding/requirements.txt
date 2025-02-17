@@ -1,8 +1,0 @@
-pandas
-numpy
-Flask
-scikit-learn
-pyperclip
-python-dotenv
-xgboost
-openai==0.28.0
